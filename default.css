@@ -3,6 +3,12 @@ body
     margin:0;
     background: #5ae872;
 }
+img{
+ position: fixed;
+ top: 3%;
+ float:left;
+    
+}
 
 ul {
     list-style-type: none;
