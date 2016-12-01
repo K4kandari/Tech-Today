@@ -1,9 +1,7 @@
 body 
 {
     margin:0;
-    background: #127983;
-    background-image: "zenbg-1.png", "zenbg-2.png";
-    background-repeat: repeat-x, repeat;
+    background: #5ae872;
 }
 
 ul {
