@@ -20,13 +20,12 @@ ul {
     position: fixed;
     top: 5%;
     width: 100%;
-    height:25%;
-
+   padding: 14px 26px;
 }
 
 li {
     float: right;
-    height:25%;
+     padding: 14px 26px;
 }
 
 li a {
