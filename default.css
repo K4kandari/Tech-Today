@@ -1,4 +1,9 @@
 body {margin:0;background-color:#00e6ac}
+h1.pagehead{
+ text-align:center;
+ color:White;
+ font-family:Comic Sans Ms Bold;
+}
 ul.topnav {
   list-style-type: none;
   margin: 0;
