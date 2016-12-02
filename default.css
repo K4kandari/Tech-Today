@@ -1,12 +1,9 @@
 body {margin:0;background-color:#00e6ac}
-#name{
- color: orange;
- font-size:2vw;
-}
+
 ul.topnav {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 14px 20px;
   overflow: hidden;
   background-color: #333;
 }
