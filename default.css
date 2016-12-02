@@ -20,10 +20,10 @@ ul.topnav {
 .video{
   width:31%;
   margin:2vw 2vw 2vw 2vw;
-  height:20%;
+  height:25%;
   float:left;
   padding; 3vw 4vh;
-  border:5px solid white;
+  border:3px solid white;
 }
 ul.topnav li {float: right;}
 .yt{
@@ -71,8 +71,8 @@ ul.topnav li.icon {display: none;float:left;}
   margin:auto;
   height:40%;
   position:relative;
-  padding; 18px 14px;
-  border:5px solid white;
+  padding; 3vw 4vh;
+  border:3px solid white;
   left:10%;
   right:10%;
   }
