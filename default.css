@@ -2,7 +2,7 @@ body {margin:0;background-color:#00e6ac}
 h1.pagehead{
  text-align:center;
  color:White;
- font-family:Comic Sans Ms Bold;
+ font-family:Times New Roman Bold;
 }
 .ytpc{
   display:inline;
@@ -22,7 +22,7 @@ ul.topnav {
   margin:10px 10px 10px 10px;
   height:20%;
   float:left;
-  padding; 18px 14px;
+  padding; 3vw 4pvh;
   border:5px solid white;
 }
 ul.topnav li {float: right;}
