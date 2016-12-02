@@ -4,6 +4,12 @@ h1.pagehead{
  color:White;
  font-family:Comic Sans Ms Bold;
 }
+.ytpc{
+  display:inline;
+ }
+ .ytmb{
+ display:none;
+}
 ul.topnav {
   list-style-type: none;
   margin: 0;
