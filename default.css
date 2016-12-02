@@ -20,7 +20,9 @@ ul.topnav {
   border:5px solid white;
 }
 ul.topnav li {float: right;}
-
+.yt{
+ display:none;
+}
 ul.topnav li a {
   display: inline-block;
   color: #f2f2f2;
@@ -68,4 +70,7 @@ ul.topnav li.icon {display: none;float:left;}
   left:10%;
   right:10%;
   }
+ .yt{
+ display:inline;
+}
 }
