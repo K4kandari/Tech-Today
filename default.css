@@ -6,9 +6,6 @@ ul.topnav {
   padding: 14px 20px;
   overflow: hidden;
   background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 100%;
 }
 
 ul.topnav li {float: right;}
@@ -36,9 +33,7 @@ ul.topnav li.icon {display: none;float:left;}
 }
 
 @media screen and (max-width:680px) {
-  ul.topnav.responsive {position: fixed;
-  top: 0;
-  width: 100%;}
+  ul.topnav.responsive {position:relative}
   ul.topnav.responsive li.icon {
     position: absolute;
     right: 0;
