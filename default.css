@@ -3,7 +3,7 @@ body
     margin:0;
     background: #5ae872;
 }
-.name{
+#name{
     z-index:2;   
 }
 
