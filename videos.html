@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <title>Tech-Today</title>
+<link rel="stylesheet" type="text/css" href="default.css">
+</head>
+
+<body>
+<ul class="topnav" id="myTopnav">
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="videos.html">Videos</a></li>
+  <li><a href="news.html">Anouncements</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="about.html">About</a></li>
+  <li class="icon">
+    <a href="javascript:void(0);" style="font-size:20px;" onclick="myFunction()">☰</a>
+  </li>
+</ul>
+
+<iframe class="video"  src="https://www.youtube.com/embed/_BAUDEH0qns" frameborder="0" allowfullscreen></iframe>
+  
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+</body>
+</html>
