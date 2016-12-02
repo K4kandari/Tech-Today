@@ -3,11 +3,8 @@ body
     margin:0;
     background: #5ae872;
 }
-img{
- position: fixed;
- top: 0%;
- float:left;
- z-index: 2;
+.name{
+    z-index:2;   
 }
 
 ul {
