@@ -14,8 +14,9 @@ ul {
     overflow: hidden;
     border:2px solid grey;
     background-color:#7d449b;
-    position: absolute;
-    top: 5%;
+    position: fixed;
+    border-radius:20 px;
+    top: 10%;
     width: 100%;
 }
 
