@@ -70,7 +70,10 @@ ul.topnav li.icon {display: none;float:left;}
   left:10%;
   right:10%;
   }
- .yt{
+ .ytpc{
+  display:none;
+ }
+ .ytmb{
  display:inline;
 }
 }
