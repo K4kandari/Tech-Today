@@ -58,6 +58,7 @@ ul.topnav li.icon {display: none;float:left;}
   margin:auto;
   height:40%;
   position:relative;
-  text-align:center;
+  left:10%;
+  right:10%;
   }
 }
